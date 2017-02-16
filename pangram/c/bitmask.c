@@ -1,4 +1,4 @@
-### compile using gcc -Wall -O2 -o pangram-c-bitmask bitmask.c
+// compile using gcc -Wall -O2 -o pangram-c-bitmask bitmask.c
 
 #include <stdio.h>
 #include <stdlib.h>
